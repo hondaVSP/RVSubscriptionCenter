@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - RVSubscriptionCenter (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - RVSubscriptionCenter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  RVSubscriptionCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  RVSubscriptionCenter: bc5ede6074f4ac3e8ef38b1a22b3fbb7ec4fbfcc
+
+PODFILE CHECKSUM: b0950c7ccda954c9a144e5fe8a81c84f2b5af90e
+
+COCOAPODS: 1.10.1

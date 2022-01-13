@@ -1,0 +1,22 @@
+{
+  "name": "RVSubscriptionCenter",
+  "version": "0.1.0",
+  "summary": "A short description of RVSubscriptionCenter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zac/RVSubscriptionCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zac": "gong@reachauto.com"
+  },
+  "source": {
+    "git": "https://github.com/Zac/RVSubscriptionCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RVSubscriptionCenter/Classes/**/*"
+}

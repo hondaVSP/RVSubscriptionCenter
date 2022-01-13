@@ -1,0 +1,6 @@
+framework module Pods_RVSubscriptionCenter_Example {
+  umbrella header "Pods-RVSubscriptionCenter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
